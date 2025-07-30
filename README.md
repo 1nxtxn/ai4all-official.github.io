@@ -1,10 +1,13 @@
-# (UPDATE IN README.md) Project Title
+# (UPDATE IN README.md) Project Title: NLP Movie Recommendation Model
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 
+Purpose: To make searching for movies more efficient by prompting the user for a few important variables to help make the top 3 recommendations for their preferences.
+
 *EXAMPLE:*
 *Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+
 
 
 ## Problem Statement <!--- do not change this line -->
